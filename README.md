@@ -8,14 +8,16 @@
 - **Static File**: Cloudflare R2
 - **Database**: PlanetScale
 
-
 ## Start dev server
+
 1. Create a ".env" file in root folder. It should contain following key:
+
 ```
 DATABASE_HOST=
 DATABASE_USERNAME=
 DATABASE_PASSWORD=
 DATABASE=
+DATABASE_PORT=
 
 R2_ACCESS_TOKEN=
 R2_ACCESS_KEY=
@@ -37,17 +39,28 @@ REDIS_HOST=
 REDIS_PORT=
 REDIS_PASSWORD=
 
-GOOGLE_SERVICE_SERCET=
+GOOGLE_SERVICE_SECRET=
 GOOGLE_SERVICE_CLIENT_ID=
 ```
 
-You should get the value from the code owner.
-2. Install dependancies:
+You should get the value from the code owner. 2. Install dependancies:
+
 ```shell
-poetry install
+uv sync
+source .venv/bin/activate
 ```
 
 3. Start dev server
+
 ```shell
-poetry run uvicorn main:app --reload 
+uvicorn main:app --reload
 ```
+
+## Start Dev server using Docker
+
+```shell
+docker-compose up --build
+```
+
+You will still need to create a `.env` file in the root folder as described above.
+But the database and redis server will be created automatically using docker-compose.
