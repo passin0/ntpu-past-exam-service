@@ -1,0 +1,742 @@
+[33mcommit 20a87cb09d70dc3495144a778a515c52d310690f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: billy948787 <88420168+billy948787@users.noreply.github.com>
+Date:   Tue Nov 25 22:08:21 2025 +0800
+
+    Merge pull request #1 from billy948787/billy
+    
+    Billy
+
+[33mcommit 57975c129676c98cf24add813a4cd8a73e89a471[m
+Author: billy <billy948787@gmail.com>
+Date:   Mon Aug 11 19:00:53 2025 +0800
+
+    fix env key spell error
+
+[33mcommit eb12e3904b49e2b39ad3bc2bd43f252c6715e43a[m
+Merge: a99b556 131e6ab
+Author: David <71749524+f312213213@users.noreply.github.com>
+Date:   Tue Oct 22 00:16:26 2024 +0800
+
+    Merge pull request #4 from NTPU-Tools/dev
+    
+    fix: login error
+
+[33mcommit 131e6ab15470d02ffcac60750b1e839b270ed2e4[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Oct 22 00:15:51 2024 +0800
+
+    fix: login error
+
+[33mcommit a99b556e05478baa9a6156dec5f06a07a625afa9[m
+Merge: 726f004 3dcd189
+Author: David <71749524+f312213213@users.noreply.github.com>
+Date:   Sun Oct 20 01:48:15 2024 +0800
+
+    Merge pull request #3 from NTPU-Tools/dev
+    
+    PE-18 feat: implement userInfo "note"
+
+[33mcommit 3dcd189149c4063cc2483375fbca077f2cfd19f5[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Oct 20 01:47:46 2024 +0800
+
+    PE-18 feat: implement userInfo "note"
+
+[33mcommit 726f0046617d50535e6ca0fa71bc02614591e0c0[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Oct 20 01:04:48 2024 +0800
+
+    PE-18 feat: implement userInfo "note"
+
+[33mcommit 99e62ee0b05464b910ef3fd1ef8ea26791acbdc7[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Mar 20 23:43:58 2024 +0800
+
+    feat: add system version endpoint
+
+[33mcommit 2c456ca61bfd1ce884de1826a8087a449231233e[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Mar 20 22:48:42 2024 +0800
+
+    core: migrate to zeabur database
+
+[33mcommit 919fa06dd6ffc316ce9c63bfd0a4ad498dad6857[m
+Merge: c3c7cc2 60af484
+Author: David <71749524+f312213213@users.noreply.github.com>
+Date:   Tue Mar 5 00:59:13 2024 +0800
+
+    Merge pull request #2 from NTPU-Tools/terry
+    
+    Edit gitignore
+
+[33mcommit 60af484e989f5b3003fb119e19823199f57f128f[m
+Author: Terry Zheng <terry25031069@gmail.com>
+Date:   Tue Mar 5 00:30:01 2024 +0800
+
+    add .venv and __pycache__ in .gitignore
+
+[33mcommit 9fca93867c435ca63ad60e6905dda4d96266f1d5[m
+Author: Terry Zheng <terry25031069@gmail.com>
+Date:   Tue Mar 5 00:29:15 2024 +0800
+
+    add .venv and __pycache__ to .gitignore
+
+[33mcommit c3c7cc2e7a0d37a69879ccd820136dfca30e8b86[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Mar 4 20:19:55 2024 +0800
+
+    PE-6 feat: add anonymous option
+
+[33mcommit 8a2a57a530ae2048f69f1b58b12abfa4d851719d[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Mar 4 20:13:14 2024 +0800
+
+    PE-6 feat: add anonymous option
+
+[33mcommit 9b08912ab80e41ac1d0470d6d59d070107415a42[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Mar 4 19:35:43 2024 +0800
+
+    fix: admin middleware
+
+[33mcommit 6998d964a96f91c4e2fdf74b8dc6a7387fa3636b[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Mar 3 17:33:06 2024 +0800
+
+    docs: update readme
+
+[33mcommit e5c1beff6153dd33d130edac29f60bcc1ea00597[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Jan 10 01:12:11 2024 +0800
+
+    feat: implement edit user info api
+
+[33mcommit 9f3b0525ae3f804fd7dc3c3506569f2c7a00993f[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Jan 6 00:50:59 2024 +0800
+
+    feat: add adm data when refresh token
+
+[33mcommit 35da8e56a1b960cad7cee96e602be3b3d37c4ec0[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Thu Jan 4 12:03:05 2024 +0800
+
+    docs: README.md
+
+[33mcommit f72d975ead941ba0db0abaac66cc3a1e98450534[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Thu Jan 4 02:10:45 2024 +0800
+
+    feat: extract common table column, implement admin permission by department
+
+[33mcommit 67aba379f7ad0d9e23b4074e100446b0a4847e40[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 23 14:19:00 2023 +0800
+
+    feat: get env
+
+[33mcommit c31b13edf554b1db5bed2f2ed0d8f9e0d1d828b0[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 23 14:00:53 2023 +0800
+
+    feat: redis
+
+[33mcommit 6b20b45994e6d78faa060e180c559953a84369c0[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Fri Dec 22 19:59:56 2023 +0800
+
+    feat: public department
+
+[33mcommit cfb028e074e51f788c62491df4438119fc6ea9ba[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Thu Dec 21 20:17:17 2023 +0800
+
+    core: gcr
+
+[33mcommit ad80dece6e59bf986e31dcb2a3874296782e5b18[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Thu Dec 21 11:05:53 2023 +0800
+
+    core: adjust worker
+
+[33mcommit 19863206e23237038852cff322be3d5b4908d636[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 22:32:07 2023 +0800
+
+    core: adjust worker
+
+[33mcommit 6fc832e94a43989d91c97cc497b8fc4b1e503fb2[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 22:19:52 2023 +0800
+
+    core: adjust worker
+
+[33mcommit 5897b5796138dba3bf93bd071208fa6025bb0fc0[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 20:24:35 2023 +0800
+
+    feat: super user block
+
+[33mcommit 6fed4257cb4262a4235823cc235e9b093f16f283[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 19:47:23 2023 +0800
+
+    feat: use google login
+
+[33mcommit 40ff76b2bbc189aa347234d5160de282001b2dcd[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 13:03:11 2023 +0800
+
+    feat: refactor verify token query
+
+[33mcommit 0b1f7da69319f79d5ee57667ff0678ec875cecda[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 12:00:59 2023 +0800
+
+    feat: reduce api workers
+
+[33mcommit afdb65256747e3bfaf9c45d672b6cd3677b8cd17[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 11:31:18 2023 +0800
+
+    feat: remove normal user password field
+
+[33mcommit a4b9d0ad2153e1263b884d8ddd2a54301ba63f85[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 11:20:29 2023 +0800
+
+    feat: remove normal user password field
+
+[33mcommit 526f59eb2ca4f37d07aa4668a87dcece4e30cdda[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 11:09:16 2023 +0800
+
+    feat: remove normal user password field
+
+[33mcommit 67c6127acb88372dab65c6cda2ad082359bc1f7a[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 20 00:09:45 2023 +0800
+
+    fix: empty admin department fail send mail
+
+[33mcommit 31c818341222e2d1aa09937c18e34698289c9f43[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 17:14:35 2023 +0800
+
+    survey: internal port
+
+[33mcommit ce6b68996d5b50c2fe7c250111bb76eaeb6bc11b[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 03:04:36 2023 +0800
+
+    survey: multi-threads memory
+
+[33mcommit a36b724dbe00c595551394b5a1c5c2b3e0d192e6[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 03:01:40 2023 +0800
+
+    survey: multi-threads memory
+
+[33mcommit 3ae23f2e8c9a4d6fcdf7c1f723dfa9290604ebbf[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 02:57:48 2023 +0800
+
+    survey: multi-threads memory
+
+[33mcommit 595f7198db6ea66b347283125d9e7822ced228bb[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 02:51:01 2023 +0800
+
+    survey: multi-threads memory
+
+[33mcommit 2d2d14060e428d998d565fe88f6e94ec00232c61[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 02:43:47 2023 +0800
+
+    survey: multi-threads memory
+
+[33mcommit ea956c60b6cfb450e140a077a342bcd77a7532a3[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 01:58:05 2023 +0800
+
+    feat: multi-threads
+
+[33mcommit a2b1a33366b31c672310ae3810c72cf97a400119[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 01:56:03 2023 +0800
+
+    feat: multi-threads
+
+[33mcommit 9677f0eb70fd6827693e3770200a22c8fc06d52b[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 01:03:23 2023 +0800
+
+    feat: superuser feature
+
+[33mcommit 76869657040b7feefd5949f83f6eb9147038e673[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 00:33:56 2023 +0800
+
+    feat: different sender on env
+
+[33mcommit 1c19770c0e973679a34689dc80634d354884817f[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 00:22:21 2023 +0800
+
+    feat: email prefix for env
+
+[33mcommit e5b17ea8de75bb304da9fd450042f23e4ff577d2[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 19 00:02:09 2023 +0800
+
+    feat: update user when fetch lms
+
+[33mcommit e7dd9b8a2e526404438ef8e8a7fe6cd8104aa245[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Dec 18 19:58:32 2023 +0800
+
+    feat: send mail
+
+[33mcommit acafff02799cbddbde99bb92ac52e2fa995bbdcb[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Dec 18 02:04:02 2023 +0800
+
+    feat: improve performance
+
+[33mcommit 755bd42e0fde8a06b765fdeec1659df0dd352eb6[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Dec 18 01:38:28 2023 +0800
+
+    feat: improve performance
+
+[33mcommit 2bbd96809c44daf2aeeccae0e6c5068dbe538acf[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 17 22:51:51 2023 +0800
+
+    core: CORS domain
+
+[33mcommit 241c8aa5fbb4a1ca1996042c9dd3a31004428585[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 17 22:09:54 2023 +0800
+
+    core: CORS domain
+
+[33mcommit 3cc483ccfe1fa796b1e7a6e820ab6276fb0c25b5[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 17 21:54:47 2023 +0800
+
+    core: CORS domain
+
+[33mcommit 0ecff30a623645470f6f45dece0dcbca10485d49[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 17 21:50:45 2023 +0800
+
+    core: CORS domain
+
+[33mcommit 3b19fae4856e1f0c4ca93aa167ba95f92d726fbc[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 17 17:40:46 2023 +0800
+
+    cire: CORS domain
+
+[33mcommit d4f9bbd4aec884091b38b70c5f649b3f11dcf604[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 17 17:37:15 2023 +0800
+
+    cire: CORS domain
+
+[33mcommit a29d0553735a6f8e129813c55c0b7ec891ba4cf8[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 17 16:09:44 2023 +0800
+
+    refactor: department status
+
+[33mcommit 6c55654bfda1759bfa1ac34086f6780d7cf51941[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 17 15:13:35 2023 +0800
+
+    fix: refresh token
+
+[33mcommit a9ee4804e832a005d017cd4c51e1d4add217932a[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 16 17:46:51 2023 +0800
+
+    feat: remove header
+
+[33mcommit bb1d71a82368d888849ca77266621292d7d69b23[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 16 17:40:39 2023 +0800
+
+    feat: add cache header
+
+[33mcommit fbd6733338a30f3b0a2c90edfdf6c547ee9e1fd9[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 16 16:38:59 2023 +0800
+
+    feat: db indexing
+
+[33mcommit a2c6b16a55923cffe53b193b746b55ef9b12b6dd[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 16 13:48:29 2023 +0800
+
+    feat: implement multiple department feature
+
+[33mcommit 0f2969e10ba8c2d6deea3acdfad44e76cb54709d[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 16 13:28:40 2023 +0800
+
+    feat: implement multiple department feature
+
+[33mcommit f99d8eb7b35bb9f935d5121ca3d8cc4f46dc9e6f[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 13 20:03:36 2023 +0800
+
+    feat: implement bulletin
+
+[33mcommit b7d56a92bb5ee32488cfac22cc770f1c78cbd5c9[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 12 01:33:19 2023 +0800
+
+    feat: adjust env key
+
+[33mcommit 367ae31a76902b85a0a62e5b054a389831013170[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 12 00:37:52 2023 +0800
+
+    feat: add logging with env
+
+[33mcommit a03485937892e53d1531c6904ff9fbcb4c18c83a[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 12 00:32:57 2023 +0800
+
+    feat: add logging with env
+
+[33mcommit e002ee9247eed3302435d5bf29dc9ad720e6adda[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 12 00:24:12 2023 +0800
+
+    feat: add logging to log tail manually
+
+[33mcommit 3161e63915feff718b96b6dec3839840913a26e6[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 9 00:06:26 2023 +0800
+
+    feat: multiple file post
+
+[33mcommit 279305a07ca5cb2fc5e2d6a583c36299dd5a8f23[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Fri Dec 8 09:57:02 2023 +0800
+
+    feat: add post owner name
+
+[33mcommit 20019121b687af3eee7c450ae35bed5258c3ca2e[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Fri Dec 8 01:46:39 2023 +0800
+
+    feat: refresh token
+
+[33mcommit 09dd9074a871317711df4f640e593763e7579eab[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Thu Dec 7 03:11:13 2023 +0800
+
+    feat: file is optional
+
+[33mcommit a2875ed184a529886c747529f1269b9153963d2e[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 6 13:10:59 2023 +0800
+
+    feat: verify role from db
+
+[33mcommit 2ba58d5c149287bcf801753cbd14bac2edcd58fc[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 6 11:59:12 2023 +0800
+
+    fix: user primary key
+
+[33mcommit 2c4e5e961ea48f42965a7d5a8307c0222448b0cb[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 6 03:22:02 2023 +0800
+
+    fix: api create user
+
+[33mcommit 3b5cbdefc1ccd628d65e3bcc7500ddba99513cd9[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 6 03:12:34 2023 +0800
+
+    feat: connect with lms
+
+[33mcommit 5a45190b748ff6a1ad116f5efb880f4cd1b80598[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Dec 6 00:55:24 2023 +0800
+
+    feat: admin feature
+
+[33mcommit 6537878bfd383c2c47574e3bb69a9fa334222117[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Dec 5 16:46:46 2023 +0800
+
+    core: admin feature
+
+[33mcommit 65ef160fd85b1c8f68a0e7e7043233a1b78a08e3[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Dec 4 03:31:37 2023 +0800
+
+    core: reduce memory
+
+[33mcommit e24ee621fac1b065e8b2fb05ab40a1b07fda3bbc[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Dec 4 03:26:24 2023 +0800
+
+    core: reduce memory
+
+[33mcommit b403f52fe2ccc4ee4f9acd6be8aeff630f4d84da[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Dec 4 03:18:53 2023 +0800
+
+    core: reduce memory
+
+[33mcommit 7268289cf4f1b894093bd9eacfd0a659d3795dfe[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Dec 4 02:20:05 2023 +0800
+
+    feat: update api
+
+[33mcommit 8521158383d4cdd11be7cdd727fb41513d4433b3[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 3 15:42:15 2023 +0800
+
+    feat: merge course and post to single api
+
+[33mcommit 78be7378869d3a4172439044535e2d60ac7c36b8[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 3 03:23:44 2023 +0800
+
+    feat: prevent redirect with trailing slash
+
+[33mcommit 680eee57f5e221013ace4c77dc2822f59863dbc1[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 3 03:15:34 2023 +0800
+
+    feat: update cors
+
+[33mcommit c3ffd2b5d53a848bdaee3855837870356c8b22a6[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 3 03:11:46 2023 +0800
+
+    feat: update cors
+
+[33mcommit 9f82cb2e53882e40fd7ab9c15fc2dd5cf6550282[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Dec 3 03:06:20 2023 +0800
+
+    feat: update course
+
+[33mcommit a2cd6fedec09fc854c016f7642bf800ae6f8ea2c[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sat Dec 2 17:28:24 2023 +0800
+
+    feat: implement course
+
+[33mcommit 7590b3fac8135288e624cdd1e85b6d98ba965eba[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Fri Dec 1 09:51:42 2023 +0800
+
+    feat: db flush in make post
+
+[33mcommit 5bbad1a383acace6a272cd5b31a94f1efc7f25a1[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Fri Dec 1 00:39:05 2023 +0800
+
+    feat: file post api
+
+[33mcommit 93b7b79bdc0f0adb9b6097b303b6f3e710851434[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Thu Nov 30 02:29:27 2023 +0800
+
+    feat: upload file via api
+
+[33mcommit 3c20e8587fd71a1aa1679b07061ec5757d3c1fce[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Nov 29 19:31:19 2023 +0800
+
+    feat: implement user validation
+
+[33mcommit 691ef549b95f29a8b1cea74fd122df8f09bdc6d8[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Nov 29 19:20:03 2023 +0800
+
+    feat: implement user validation
+
+[33mcommit c181bf2a8b01bcea0c9016b74cb05b2a67299727[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Nov 29 16:47:46 2023 +0800
+
+    feat: implement user validation
+
+[33mcommit e79cd10fe649c81ad4bc25444b061e85a49d2b51[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Nov 29 16:46:00 2023 +0800
+
+    feat: implement user validation
+
+[33mcommit 92f0199a964d11ddadb48b68253235d56558b8ff[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Wed Nov 29 16:39:23 2023 +0800
+
+    feat: implement user validation
+
+[33mcommit 14fd3d14d4cd8d990a4b4b45951c3a819bda3476[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 12:47:43 2023 +0800
+
+    core: separate model files
+
+[33mcommit 8cafc309ab7f8a165b95f7a11badea5d13901c30[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 12:11:56 2023 +0800
+
+    core: remove docker
+
+[33mcommit 2980e4eef72ae974c49c2bcc67ecb3a880d7dfff[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 12:10:49 2023 +0800
+
+    core: remove docker
+
+[33mcommit 5f719e10d42c7b87ad4f00ce7d1b3b659dac4603[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 12:08:51 2023 +0800
+
+    feat: heartbeat
+
+[33mcommit 44374da8fde5c628fe993374978d7276975466fd[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 03:06:15 2023 +0800
+
+    feat: use uuid
+
+[33mcommit 386ec82a0297bdec6c1091a367a34a2044f1c3da[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 00:58:35 2023 +0800
+
+    core: update Dockerfile
+
+[33mcommit 6ef1400048a8424e13356c6ef878855cfc193b98[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 00:48:18 2023 +0800
+
+    core: Dockerfile
+
+[33mcommit 4affeb83c100ea913629492634f731b1eb572274[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 00:32:05 2023 +0800
+
+    core: Dockerfile
+
+[33mcommit 2afdd641abca95145f4f26072ec2d5228a9daef6[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Tue Nov 28 00:18:33 2023 +0800
+
+    core: Dockerfile
+
+[33mcommit 6f5cab1d092f4c5ac8efe5c95b649dc8e1930dbe[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 23:39:03 2023 +0800
+
+    feat: use client
+
+[33mcommit 78828c7d42562050f0394cf9547cad501cb65b4d[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 23:16:17 2023 +0800
+
+    feat: connect cloudflare r2
+
+[33mcommit bc51a6ca21d39f52e5b71ac87c2933386c498c55[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 23:11:57 2023 +0800
+
+    feat: connect cloudflare r2
+
+[33mcommit 87d7be9f943b039fe8d32b09378994bbbb8dee4c[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 23:09:14 2023 +0800
+
+    feat: connect cloudflare r2
+
+[33mcommit 1675fa570d0307d99c276c7b473e2c5af6db4eab[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 02:14:35 2023 +0800
+
+    feat: connect sql
+
+[33mcommit 56d0231a288fcf71a68d72089fdf8da8f780420a[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 02:02:04 2023 +0800
+
+    feat: connect sql
+
+[33mcommit a10b25115824b6cd0837006476705926b1bda749[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 00:06:43 2023 +0800
+
+    core: auto export
+
+[33mcommit eea3436939afd4fe16a0747e2e695a62cc06c9ae[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 00:05:01 2023 +0800
+
+    core: auto export
+
+[33mcommit a91cc9d7147ce1f552648ee4b9fa95aa40c17e18[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 00:04:02 2023 +0800
+
+    core: auto export
+
+[33mcommit 941a4c162bdb4c057b10ddb11bfe4e27ac6afdf2[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Mon Nov 27 00:03:14 2023 +0800
+
+    core: auto export
+
+[33mcommit dfd74a7657b6d6010e40c76f7c51dcaa9fc3e3e7[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Nov 26 23:52:42 2023 +0800
+
+    core: vercel
+
+[33mcommit b2ec3ed04c196bcbff95a28e9aaa1fd00e745eef[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Nov 26 23:38:36 2023 +0800
+
+    core: vercel
+
+[33mcommit f6f975d5d29f2e547ac3d629ebda1c9e8337c8e9[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Nov 26 21:33:25 2023 +0800
+
+    core: vercel
+
+[33mcommit a36853ed882f76a8c4afc2d00ff30b3491d11f2a[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Nov 26 21:31:26 2023 +0800
+
+    core: vercel
+
+[33mcommit 60e6ad938d9b4ed831f0fabfa3ca08f4095b027d[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Nov 26 20:33:04 2023 +0800
+
+    core: init project
+
+[33mcommit 4297258d6e6b50441d97aae595e58649cb46d074[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Nov 26 20:24:13 2023 +0800
+
+    core: init project
+
+[33mcommit ab8f2a7928057ca2a0fc11c296de5ee865a717b9[m
+Author: david.chien <f312213213david@gmail.com>
+Date:   Sun Nov 26 20:23:44 2023 +0800
+
+    core: init project
